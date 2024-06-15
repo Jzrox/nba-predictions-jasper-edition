@@ -1,1 +1,1 @@
-Using the Official NBA API this python model will predict the outcome of NBA games. You can use it with any combination of players, and it can predict 3v3s or 5v5s.
+Using the Official NBA API this python model will predict the outcome of NBA games. You can use it with any combination of players, and it can predict the outcome of 3player vs 3 player games, or 5 player vs 5 player games. Youy can enter the players yourself or you can randomize them. There are also presets for every current NBA team as of the 2023-24 NBA season.
